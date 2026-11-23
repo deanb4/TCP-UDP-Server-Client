@@ -1,2 +1,8 @@
 received.png
 *.exe
+
+# Compiled binaries (no extension)
+udp/udp_client
+udp/udp_server
+tcp/tcp_client
+tcp/tcp_server
